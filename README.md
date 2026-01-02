@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souvik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right"alt ="coding" width="400" height="300"  src="https://github.com/user-attachments/assets/d59ba500-ca44-4f9e-94bb-1e8fd07b4e89" />
+<img align ="right" width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/32b6bb55-152d-4730-b1ff-4008ed247d3d .gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcodespecter&label=Profile%20views&color=0e75b6&style=flat" alt="xcodespecter" /> </p>
 
 - 🔭 I’m currently working **infra-xodivorce-in**
