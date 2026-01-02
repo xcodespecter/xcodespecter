@@ -20,4 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xcodespecter&show_icons=true&locale=en&layout=compact" alt="xcodespecter" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xcodespecter&show_icons=true&locale=en" alt="xcodespecter" /></p>
+
