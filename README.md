@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souvik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align ="right"alt ="coding" width ="400" src=  <img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/19ccd5bc-cedf-42d9-b7a0-5033625d4cd5" / >
+<img align ="right"alt ="coding" width="680" height="428"  src="https://github.com/user-attachments/assets/d59ba500-ca44-4f9e-94bb-1e8fd07b4e89" />
+
 >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcodespecter&label=Profile%20views&color=0e75b6&style=flat" alt="xcodespecter" /> </p>
 
