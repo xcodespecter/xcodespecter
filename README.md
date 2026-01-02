@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcodespecter&label=Profile%20views&color=0e75b6&style=flat" alt="xcodespecter" /> </p>
 
-- 🔭 I’m currently working **infra-xodivorce-in**
+- 🔭 currently working on **infra-xodivorce-in**
 
 - 🌱 I’m currently pursing **B.Tech in Computer Science Engineering(CSE)**
 
