@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Souvik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align ="right"alt ="coding" width ="400" src=  "<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/19ccd5bc-cedf-42d9-b7a0-5033625d4cd5" / ">
+>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcodespecter&label=Profile%20views&color=0e75b6&style=flat" alt="xcodespecter" /> </p>
 
 - 🔭 I’m currently working **infra-xodivorce-in**
