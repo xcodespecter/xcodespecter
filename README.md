@@ -39,7 +39,7 @@ I’m a **passionate frontend developer** who enjoys building
 ### 🧩 The Stack Behind the UI
 
 ```js
-const souvik = {
+const xcodespecter = {
   pronouns: "he / him",
   role: "Frontend Developer",
   education: "B.Tech CSE",
@@ -47,5 +47,6 @@ const souvik = {
   frameworks: ["React", "Node.js"],
   tools: ["Git", "Linux", "MySQL", "Photoshop"],
   interests: ["UI/UX", "Web Performance", "Clean Design"],
-  challenge: "Turning ideas into pixel-perfect experiences"
+  mission: "Designing fast, accessible, and intuitive web experiences"
+
 };
