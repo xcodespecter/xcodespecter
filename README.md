@@ -1,11 +1,14 @@
 <h1 align="center">Hey 👋, I'm Souvik Singha</h1>
 <h3 align="center">Frontend Developer • CSE Undergraduate • India 🇮🇳</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/souvik-singha-5aa6522a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Souvik%20Singha-blue?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/souvik-singha-5aa6522a1/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+      alt="LinkedIn" width="32" height="32" />
   </a>
-  <a href="https://instagram.com/xcodespecter">
-    <img src="https://img.shields.io/badge/Instagram-@xcodespecter-pink?style=for-the-badge&logo=instagram">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/xcodespecter" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram" width="32" height="32" />
   </a>
 </p>
 
