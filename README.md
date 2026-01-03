@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Souvik Singha</h1>
-<h3 align="center">Frontend Developer • CSE Undergraduate • India 🇮🇳</h3>
-<hr>
+<p align="center">
+  Frontend Developer • CSE Undergraduate • India 🇮🇳
+</p>
+
 <h3>🌐 Connect with me</h3>
 <p>
   <a href="https://www.linkedin.com/in/souvik-singha-5aa6522a1/" target="_blank">
