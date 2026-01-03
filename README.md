@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Souvik Singha</h1>
+<h1 align="center">Hey 👋, I'm Souvik</h1>
 <p align="center">
   Frontend Developer • CSE Undergraduate • India 🇮🇳
 </p>
