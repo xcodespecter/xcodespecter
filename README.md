@@ -5,14 +5,12 @@
 
 <h3>🌐 Connect with me</h3>
 <p>
-  <a href="https://www.linkedin.com/in/souvik-singha-5aa6522a1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-      width="28" />
+  <a href="https://www.linkedin.com/in/souvik-singha-5aa6522a1/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="26"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/xcodespecter" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      width="28" />
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/xcodespecter">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="26"/>
   </a>
 </p>
 
