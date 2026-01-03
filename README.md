@@ -50,3 +50,4 @@ const xcodespecter = {
   mission: "Designing fast, accessible, and intuitive web experiences"
 
 };
+> I care about performance, clarity, and users — not just code.
