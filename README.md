@@ -3,12 +3,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/souvik-singha-5aa6522a1/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-      alt="LinkedIn" width="32" height="32" />
+      alt="LinkedIn" width="25" height="25" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/xcodespecter" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Instagram" width="32" height="32" />
+      alt="Instagram" width="25" height="25" />
   </a>
 </p>
 
